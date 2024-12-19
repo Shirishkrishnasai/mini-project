@@ -22,7 +22,7 @@ This mini-project analyzes stock breakout patterns based on user-defined criteri
     ```streamlit run app.py```
 2. Open the URL provided in the terminal to interact with the app.
 
-Please find the documentation for the project in the ```mini project.doc```
+Please find the documentation for the project in the ```mini project.doc``` or ```mini-project-doc.txt```
 
 Hosted link of the project: https://mini-project-mdvin5sspqio3bkgwiqozn.streamlit.app/
 
