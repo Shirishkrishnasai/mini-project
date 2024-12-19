@@ -22,8 +22,4 @@ This mini-project analyzes stock breakout patterns based on user-defined criteri
     ```streamlit run app.py```
 2. Open the URL provided in the terminal to interact with the app.
 
-## Deployment
-To deploy the app, use free hosting platforms like:
-- [Streamlit Cloud](https://streamlit.io/cloud)
-- [Render](https://render.com)
 
